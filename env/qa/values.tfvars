@@ -1,0 +1,6 @@
+environment = "qa"
+profile = "cbs-non-prod-qa-xxxxx"
+appname = "cbs"
+amq_brokergroup = "broker"
+p_amazon_mq_username = "mquser"
+mgmt_vpc_cidr_access = "10.210.xx.x/24"
